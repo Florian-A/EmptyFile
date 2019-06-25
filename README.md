@@ -1,6 +1,8 @@
 # EmptyFile
 EmptyFile est un petit programme qui va ajouter un "Fichier vide" au répertoire Modèles du répertoire personnel
 
+![](https://raw.githubusercontent.com/P4p3RcLip/EmptyFile/master/screenshot.png?token=ALXESUAQRHMYUMQJPWJZPC25CKMVQ)
+
 #### Dépendances pour compilation :
 - debhelper 
 - autotools-dev 
