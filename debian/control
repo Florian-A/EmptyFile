@@ -1,0 +1,15 @@
+Source: empty-file
+Section: unknown
+Priority: optional
+Maintainer: P4p3RcLip <paperclip@paperclip.im>
+Build-Depends: debhelper (>= 9), autotools-dev
+Standards-Version: 3.9.8
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: https://anonscm.debian.org/collab-maint/empty-file.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/empty-file.git
+
+Package: empty-file
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Add a empty file in user template folder
+ This is a simple programm wich add a empty file in user template folder with localized name.
